@@ -1,0 +1,15 @@
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\bin\Debug\net6.0\Zad_2.exe
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\bin\Debug\net6.0\Zad_2.deps.json
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\bin\Debug\net6.0\Zad_2.runtimeconfig.json
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\bin\Debug\net6.0\Zad_2.dll
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\bin\Debug\net6.0\Zad_2.pdb
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\Zad_2.csproj.AssemblyReference.cache
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\Zad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\Zad_2.AssemblyInfoInputs.cache
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\Zad_2.AssemblyInfo.cs
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\Zad_2.csproj.CoreCompileInputs.cache
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\Zad_2.dll
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\refint\Zad_2.dll
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\Zad_2.pdb
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\Zad_2.genruntimeconfig.cache
+C:\Практика КПиЯп\Arabok_A\Zad_1\Zad_2\obj\Debug\net6.0\ref\Zad_2.dll
