@@ -13,8 +13,8 @@
 
             int lastDigit = int.Parse(numberStr[numberStr.Length - 1].ToString());
 
-            Console.WriteLine($"Первая цифра числа {number} - это {firstDigit}");
-            Console.WriteLine($"Последняя цифра числа {number} - это {lastDigit}");
+            Console.WriteLine($"Первая цифра это {firstDigit}");
+            Console.WriteLine($"Последняя цифра это {lastDigit}");
         }
     }
 }

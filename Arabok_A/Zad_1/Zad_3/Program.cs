@@ -4,10 +4,15 @@
     {
         static void Main(string[] args)
         {
-            double x = 0.7;
-            double y = 20 * Math.Log(Math.Pow(Math.Cos(2 / Math.Sqrt(Math.Pow(Math.Sin(Math.PI), 3) + 1 - Math.Pow(x, 2))), Math.E));
+            double x = 0.5;
+            double y = CalculateY(x);
+            Console.WriteLine($"Значение y: {y}");
+        }
 
-            Console.WriteLine($"Значение y при x = {x} равно: {y}");
+        static double CalculateY(double x)
+        {
+            double result = 20 * Math.Log(Math.Cos(Math.Exp(-2 / (Math.Sqrt(Math.Sin(3 * x + 1) - Math.Pow(x, 2))))));
+            return result;
         }
     }
 }

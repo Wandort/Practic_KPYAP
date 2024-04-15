@@ -17,7 +17,7 @@
 
             int sum = a + b + c;
 
-            Console.WriteLine($"Сумма чисел: {sum}");
+            Console.WriteLine($"{a} + {b} + {c} = {sum}");
             Console.ReadLine();
         }
     }
