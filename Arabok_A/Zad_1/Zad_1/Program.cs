@@ -15,8 +15,9 @@
             Console.WriteLine("Введите третье число:");
             int c = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("$a");
-            
+            int sum = a + b + c;
+
+            Console.WriteLine($"Сумма чисел: {sum}");
             Console.ReadLine();
         }
     }
