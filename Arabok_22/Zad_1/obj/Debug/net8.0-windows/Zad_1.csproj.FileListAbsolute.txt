@@ -1,0 +1,17 @@
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.Form1.resources
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.csproj.GenerateResource.cache
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.AssemblyInfoInputs.cache
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.AssemblyInfo.cs
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.csproj.CoreCompileInputs.cache
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.sourcelink.json
+C:\Практика КПиЯп\Arabok_22\Zad_1\bin\Debug\net8.0-windows\Zad_1.exe
+C:\Практика КПиЯп\Arabok_22\Zad_1\bin\Debug\net8.0-windows\Zad_1.deps.json
+C:\Практика КПиЯп\Arabok_22\Zad_1\bin\Debug\net8.0-windows\Zad_1.runtimeconfig.json
+C:\Практика КПиЯп\Arabok_22\Zad_1\bin\Debug\net8.0-windows\Zad_1.dll
+C:\Практика КПиЯп\Arabok_22\Zad_1\bin\Debug\net8.0-windows\Zad_1.pdb
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.dll
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\refint\Zad_1.dll
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.pdb
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\Zad_1.genruntimeconfig.cache
+C:\Практика КПиЯп\Arabok_22\Zad_1\obj\Debug\net8.0-windows\ref\Zad_1.dll
