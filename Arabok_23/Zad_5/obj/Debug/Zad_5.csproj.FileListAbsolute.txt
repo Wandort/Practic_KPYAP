@@ -1,0 +1,10 @@
+C:\Практика КПиЯп\Arabok_23\Zad_5\bin\Debug\Zad_5.exe.config
+C:\Практика КПиЯп\Arabok_23\Zad_5\bin\Debug\Zad_5.exe
+C:\Практика КПиЯп\Arabok_23\Zad_5\bin\Debug\Zad_5.pdb
+C:\Практика КПиЯп\Arabok_23\Zad_5\obj\Debug\Zad_5.csproj.AssemblyReference.cache
+C:\Практика КПиЯп\Arabok_23\Zad_5\obj\Debug\Zad_5.Form1.resources
+C:\Практика КПиЯп\Arabok_23\Zad_5\obj\Debug\Zad_5.Properties.Resources.resources
+C:\Практика КПиЯп\Arabok_23\Zad_5\obj\Debug\Zad_5.csproj.GenerateResource.cache
+C:\Практика КПиЯп\Arabok_23\Zad_5\obj\Debug\Zad_5.csproj.CoreCompileInputs.cache
+C:\Практика КПиЯп\Arabok_23\Zad_5\obj\Debug\Zad_5.exe
+C:\Практика КПиЯп\Arabok_23\Zad_5\obj\Debug\Zad_5.pdb
