@@ -1,0 +1,13 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <lvc:CartesianChart x:Name="Chart" Margin="10">
+            <lvc:CartesianChart.Series>
+                <lvc:LineSeries x:Name="LineSeries" Title="y = |x|" Values="{Binding}"/>
+            </lvc:CartesianChart.Series>
+        </lvc:CartesianChart>
+    </Grid>
+</Window>
