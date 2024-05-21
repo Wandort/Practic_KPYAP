@@ -1,0 +1,147 @@
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\zad1.exe.config
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\zad1.exe
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\zad1.pdb
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\MainWindow.g.cs
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\App.g.cs
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1_MarkupCompile.cache
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1_MarkupCompile.lref
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\MainWindow.baml
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.g.resources
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.Properties.Resources.resources
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.exe
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.pdb
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Owin.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Owin.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Buffers.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Memory.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Numerics.Vectors.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.ValueTuple.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Owin.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Buffers.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Memory.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Numerics.Vectors.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.ValueTuple.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.csproj.Up2Date
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\AddFlightForm.g.cs
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\AddFlightForm.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\zad1.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\zad1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\zad1.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Owin.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Owin.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\Microsoft.Owin.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\App.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1_MarkupCompile.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1_MarkupCompile.lref
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1.g.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1.csproj.Up2Date
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\zad1.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\AddStudentForm.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_26\zad1\obj\Debug\AddStudentForm.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\zad1.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\zad1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\zad1.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Owin.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Owin.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\Microsoft.Owin.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\AddStudentForm.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\App.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1_MarkupCompile.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1_MarkupCompile.lref
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\AddStudentForm.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1.g.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1.csproj.Up2Date
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_27\zad1\obj\Debug\zad1.pdb

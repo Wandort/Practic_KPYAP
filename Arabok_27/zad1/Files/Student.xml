@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<student>
+  <student>
+    <LastName>Арабок</LastName>
+    <Birthday>19.03.2006</Birthday>
+    <Name>Евгений</Name>
+  </student>
+  <student>
+    <LastName>Хомяк</LastName>
+    <Birthday>24.05.2024</Birthday>
+    <Name>Артем</Name>
+  </student>
+  <student>
+    <LastName>Сайко</LastName>
+    <Birthday>01.07.2024</Birthday>
+    <Name>Александр</Name>
+  </student>
+  <student>
+    <LastName>Дылюк</LastName>
+    <Birthday>15.07.2006</Birthday>
+    <Name>Кирилл</Name>
+  </student>
+  <student>
+    <LastName>qwert</LastName>
+    <Birthday>124312</Birthday>
+    <Name>qwery</Name>
+  </student>
+</student>
