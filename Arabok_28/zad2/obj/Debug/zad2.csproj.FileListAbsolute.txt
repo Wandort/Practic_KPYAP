@@ -1,0 +1,32 @@
+D:\Practic_KPIAP\Dylyk_28\zad2\bin\Debug\zad2.exe.config
+D:\Practic_KPIAP\Dylyk_28\zad2\bin\Debug\zad2.exe
+D:\Practic_KPIAP\Dylyk_28\zad2\bin\Debug\zad2.pdb
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\MainWindow.g.cs
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\App.g.cs
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2_MarkupCompile.cache
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2_MarkupCompile.lref
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\MainWindow.baml
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2.g.resources
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2.Properties.Resources.resources
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2.csproj.GenerateResource.cache
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2.exe
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\zad2.pdb
+D:\Practic_KPIAP\Dylyk_28\zad2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\bin\Debug\zad2.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\bin\Debug\zad2.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\bin\Debug\zad2.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\App.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2_MarkupCompile.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2_MarkupCompile.lref
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2.g.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad2\obj\Debug\zad2.pdb

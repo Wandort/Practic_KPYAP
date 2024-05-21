@@ -1,0 +1,30 @@
+D:\Practic_KPIAP\Dylyk_28\zad3\bin\Debug\zad3.exe.config
+D:\Practic_KPIAP\Dylyk_28\zad3\bin\Debug\zad3.exe
+D:\Practic_KPIAP\Dylyk_28\zad3\bin\Debug\zad3.pdb
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\MainWindow.g.cs
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\App.g.cs
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3_MarkupCompile.cache
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3_MarkupCompile.lref
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\MainWindow.baml
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3.g.resources
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3.Properties.Resources.resources
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3.csproj.GenerateResource.cache
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3.exe
+D:\Practic_KPIAP\Dylyk_28\zad3\obj\Debug\zad3.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\bin\Debug\zad3.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\bin\Debug\zad3.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\bin\Debug\zad3.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\App.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3_MarkupCompile.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3_MarkupCompile.lref
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3.g.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad3\obj\Debug\zad3.pdb

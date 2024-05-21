@@ -1,0 +1,20 @@
+D:\Practic_KPIAP\Dylyk_28\zad1\bin\Debug\zad1.exe.config
+D:\Practic_KPIAP\Dylyk_28\zad1\bin\Debug\zad1.exe
+D:\Practic_KPIAP\Dylyk_28\zad1\bin\Debug\zad1.pdb
+D:\Practic_KPIAP\Dylyk_28\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_28\zad1\obj\Debug\zad1.Form1.resources
+D:\Practic_KPIAP\Dylyk_28\zad1\obj\Debug\zad1.Properties.Resources.resources
+D:\Practic_KPIAP\Dylyk_28\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+D:\Practic_KPIAP\Dylyk_28\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_28\zad1\obj\Debug\zad1.exe
+D:\Practic_KPIAP\Dylyk_28\zad1\obj\Debug\zad1.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\bin\Debug\zad1.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\bin\Debug\zad1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\bin\Debug\zad1.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\obj\Debug\zad1.Form1.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\obj\Debug\zad1.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\obj\Debug\zad1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Arabok_28\zad1\obj\Debug\zad1.pdb
