@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\bin\Debug\DatabaseTurist.accdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\bin\Debug\task1.exe.config
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\bin\Debug\task1.exe
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\bin\Debug\task1.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\obj\Debug\task1.Form1.resources
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\obj\Debug\task1.exe
+C:\Users\LENOVO\OneDrive\Рабочий стол\Practice\lab31\task1\obj\Debug\task1.pdb
