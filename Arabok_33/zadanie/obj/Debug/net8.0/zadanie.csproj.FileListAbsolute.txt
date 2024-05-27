@@ -1,0 +1,6 @@
+D:\Practic_KPIAP\Dylyk_33\zadanie\obj\Debug\net8.0\zadanie.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_33\zadanie\obj\Debug\net8.0\zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practic_KPIAP\Dylyk_33\zadanie\obj\Debug\net8.0\zadanie.AssemblyInfoInputs.cache
+D:\Practic_KPIAP\Dylyk_33\zadanie\obj\Debug\net8.0\zadanie.AssemblyInfo.cs
+D:\Practic_KPIAP\Dylyk_33\zadanie\obj\Debug\net8.0\zadanie.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_33\zadanie\obj\Debug\net8.0\zadanie.sourcelink.json
