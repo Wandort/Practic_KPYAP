@@ -1,0 +1,13 @@
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\bin\Debug\Task1.exe.config
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\bin\Debug\Task1.exe
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\bin\Debug\Task1.pdb
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\obj\Debug\Task1.Form1.resources
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\obj\Debug\Task1.csproj.Up2Date
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\obj\Debug\Task1.exe
+D:\Projects\C#\Practice_CSharp\Tema32\Task1\obj\Debug\Task1.pdb
